@@ -1,0 +1,19 @@
+footer {
+  background-color: #222836;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 90px 60px;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #ccc;
+}
+footer .phone {
+  color: white;
+  margin-right: 80px;
+}
+/*# sourceMappingURL=style.css.map */
